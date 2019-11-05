@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/binary-search-target-search/binary-search-target-search.iml" filepath="$PROJECT_DIR$/binary-search-target-search/binary-search-target-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permutation/permutation.iml" filepath="$PROJECT_DIR$/permutation/permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/vowel-only/vowel-only.iml" filepath="$PROJECT_DIR$/vowel-only/vowel-only.iml" />
     </modules>
   </component>
